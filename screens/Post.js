@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { View, Text, StyleSheet, FlatList } from "react-native";
-import Loader from "./Loader";
+import Loader from "../components/Loader";
 
 const Post = () => {
   const [product, setProduct] = useState([]);

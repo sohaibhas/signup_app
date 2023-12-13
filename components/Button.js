@@ -1,6 +1,5 @@
 import { Text, TouchableOpacity, Image } from "react-native";
 import React from "react";
-import { View } from "react-native-web";
 
 const Button = ({
   bgcolor,

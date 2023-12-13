@@ -7,7 +7,7 @@ import {
   StyleSheet,
   TouchableOpacity,
 } from "react-native";
-import Button from "./Button";
+import Button from "../components/Button";
 import phone from "../assets/phone.png";
 import apple from "../assets/apple.png";
 import google from "../assets/google.png";
